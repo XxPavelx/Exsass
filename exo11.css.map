@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,OAAO,CAAC;EACN,KAAK,EAFS,KAAK;CAGpB;;AACD,AAAA,cAAc,CAAC;EACb,KAAK,EAAE,KAAqB;CAC7B;;AACD,AAAA,cAAc,CAAC;EACb,KAAK,EAAE,KAAqB;CAC7B",
+    "sources": [
+        "exo11.scss"
+    ],
+    "names": [],
+    "file": "exo11.css"
+}
